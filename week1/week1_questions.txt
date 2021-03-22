@@ -1,0 +1,15 @@
+Plot the following sequences using MATLAB
+1.  (a)Unit Impulse del[n]- n varies from 0 to 10 where n values not specified
+    (b)Unit Step      u[n] -                ''
+    (c)Unit ramp     r[n]-                 ''
+    (d)y[n] = 2δ[n-1] -4δ[n+2] ; -5 ≤ n ≤ 5
+    (e)x[n] = cos[0.04*π*n]
+    (f)x[n] = n[u[n] - u[n-10]] + 10𝐞−𝟎.𝟑(𝐧−𝟏𝟎) [u[n] - u[n-10]]; 0≤n≤20
+
+
+2. If x[n] = {1 2 3 4 5 6 7 6 5 4 3 2 1}
+    a. X1[n] = 2x[n-5] - 3x[n+4]
+    b. x2[n] = x[3-n] - x[n]x[n-2]
+
+
+3. If  x[n] = = e(−0.1+j0.3)n ; -10 ≤ n ≤ 10, plot its magnitude, phase, real part and imaginary part
