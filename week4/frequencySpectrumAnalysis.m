@@ -2,7 +2,7 @@ clc
 clear variables
 
 %xt = cos(2*pi*f*t)
-f = 500;            %frequency of the single tone signal
+f = 100;            %frequency of the single tone signal
 
 %Sampled signal generation
 fs = 1024;               %Sampling frequency(should be >= 2*f)

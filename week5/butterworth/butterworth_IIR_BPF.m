@@ -1,6 +1,4 @@
-clc
-clear variables
-
+clc; clear variables;
 fsample = 4096;              %Should be atlease twice f to avoid aliasing
 
 

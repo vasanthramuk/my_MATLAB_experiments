@@ -1,7 +1,7 @@
 clc
 clear variables
 
-fsample = 4098;              %Should be atlease twice f to avoid aliasing
+fsample = 4096;              %Should be atlease twice f to avoid aliasing
 
 %High Pass filter
 fs = 100;        %in Hz
